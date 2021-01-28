@@ -1,2 +1,2 @@
 # Calendar
-Simple calendar using Html, css , Bootstrap and javascript
+Simple event calendar using Html, css , Bootstrap and javascript
